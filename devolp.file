@@ -1,7 +1,7 @@
-Jenkinsfile (praveen. Pipeline)
+Jenkinsfile (devolp.file merge the main branch)
 pipeline {
     agent any 
-    stages {
+    stages {iam not a loser 
         stage('Build') { 
             steps {
                 // 
