@@ -1,0 +1,12 @@
+Jenkinsfile (man.file  Pipeline)
+node {  
+    stage('Build') { 
+        // 
+    }
+    stage('Test') { 
+        // 
+    }
+    stage('Deploy') { 
+        // 
+    }
+}
